@@ -23,7 +23,7 @@ My email address is of the form first_name.i.last_name@helsinki.fi.
 [Command Line Tools for Linguists](https://studies.helsinki.fi/courses/course-unit/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f), fall 2026
 
 ## Curriculum Vitae Informaticae, Primi Gressus Cum Elementis
-[My first steps in the life of informatics with learning programming with Basic](https://www.overleaf.com/project/6adcb8cfe0e5f6a49859506f/share#b50f36c454dd47c3ac6fcc429eb20f7ec6a0c89f54948d5a)
+[My first steps in the life of informatics, learning programming with Basic](https://www.overleaf.com/project/6adcb8cfe0e5f6a49859506f/share#b50f36c454dd47c3ac6fcc429eb20f7ec6a0c89f54948d5a)
 
 ## Projects
 
