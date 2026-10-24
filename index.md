@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-I am studying linguistis at the university of Helsinki, after a short break. When I first started I was fascinated by languages, their structures, the whole world of meaning as an aspect of human life, and how langugage influences and reflects societal side of life. Now I am more focussing on understanding language as a medium and language technology as a set of tools with which one can analyse the contents in that medium. My primary interest lies actually in history. 
+I am studying linguistis at the university of Helsinki, after a short break. When I first started I was fascinated by languages, their structures, the whole world of meaning as an aspect of human life, and how langugage influences and reflects the societal side of life. Now I am more focussing on understanding language as a medium and language technology as a set of tools with which one can analyse the contents in that medium. My primary interest lies at the moment in history. 
 
 ## Find me on
 
